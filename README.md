@@ -5,6 +5,8 @@ Generate ssh key:
 ---------------------
     Downloade openssl: https://code.google.com/archive/p/openssl-for-windows/downloads
     
+    Here: "C:\Users\MHC\Downloads\bin\openssl" is your downloaded openssl bin folder location
+    
     1. Open CMD
     2. Go to C:\Program Files\Java\jdk1.8.0_211\bin
     3. Enter bellow command:
