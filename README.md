@@ -16,3 +16,14 @@ Generate ssh key:
 Genreted Key:
 -------------
     "Bmce+9aHdOoVtE7fS3B07tfj7Bc=" like this one.
+
+Generate sha1 key:
+------------------
+    1. Open CMD
+    2. Go to C:\Program Files\Java\jdk1.8.0_211\bin
+    3. Enter bellow command:
+    keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+Genreted Key:
+-------------
+    "SHA1: 05:EA:6D:EA:06:42:97:C7:CE:DE:74:4B:31:AE:35:F7:FC:36:B9:0B" like this one
