@@ -1,8 +1,8 @@
 # SSH-KEY-GENERATE
 ssh key generation windwos
 
-Generate ssh key:
----------------------
+Generate ssh key for Facebook:
+------------------------------
     Downloade openssl: https://code.google.com/archive/p/openssl-for-windows/downloads
     
     Here: "C:\Users\your_pc_user_name\Downloads\bin\openssl" is your downloaded openssl bin folder location
@@ -17,8 +17,8 @@ Genreted Key:
 -------------
     "Bmce+9aHdOoVtE7fS3B07tfj7Bc=" like this one.
 
-Generate sha1 key:
-------------------
+Generate sha1 key for Google:
+-----------------------------
     1. Open CMD
     2. Go to C:\Program Files\Java\jdk1.8.0_211\bin
     3. Enter bellow command:
